@@ -1,0 +1,8 @@
+D:\aaron\dropbox\webdesign\aarongernhardt.com\bin\Debug\netcoreapp1.1\aarongernhardt.com.deps.json
+D:\aaron\dropbox\webdesign\aarongernhardt.com\bin\Debug\netcoreapp1.1\aarongernhardt.com.runtimeconfig.json
+D:\aaron\dropbox\webdesign\aarongernhardt.com\bin\Debug\netcoreapp1.1\aarongernhardt.com.runtimeconfig.dev.json
+D:\aaron\dropbox\webdesign\aarongernhardt.com\bin\Debug\netcoreapp1.1\aarongernhardt.com.dll
+D:\aaron\dropbox\webdesign\aarongernhardt.com\bin\Debug\netcoreapp1.1\aarongernhardt.com.pdb
+D:\aaron\dropbox\webdesign\aarongernhardt.com\obj\Debug\netcoreapp1.1\aarongernhardt.com.AssemblyInfo.cs
+D:\aaron\dropbox\webdesign\aarongernhardt.com\obj\Debug\netcoreapp1.1\aarongernhardt.com.dll
+D:\aaron\dropbox\webdesign\aarongernhardt.com\obj\Debug\netcoreapp1.1\aarongernhardt.com.pdb
